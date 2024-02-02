@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Assignment2/*.csv
 
 # C extensions
 *.so
