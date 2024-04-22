@@ -5,6 +5,8 @@ text8
 Clothing_Shoes_and_Jewelry_5.json
 reviews_Tools_and_Home_Improvement_5.json
 ~*.docx
+model_output/
+saved_model/
 # Below are auto generated
 # Byte-compiled / optimized / DLL files
 __pycache__/
